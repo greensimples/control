@@ -8,15 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
         return view('auth.login');
 
     }
